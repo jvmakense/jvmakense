@@ -1,11 +1,15 @@
 ### Olá 👋
 
+###### Desenvolvedor front-end, criando interfaces funcionais e responsivas.  
+Tenho experiência com React, consumo de APIs, JavaScript moderno, Vue.js e Bootstrap.
 
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvmakense&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### Projetos
+- [Efood EBAC](https://seu-usuario.github.io/efood-ebac/)  
+  Site para pedidos de restaurantes com consumo de API.
 
 ### Linguagens utilizadas
 

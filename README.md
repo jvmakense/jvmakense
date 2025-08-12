@@ -8,7 +8,7 @@ Tenho experiência com React, consumo de APIs, JavaScript moderno, Vue.js e Boot
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvmakense&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
-- [Efood EBAC](https://jvmakense.github.io/efood-EBAC/)  
+[**Efood EBAC**](https://efood-ebac-seven.vercel.app) 
   Site para pedidos de restaurantes com consumo de API.
 
 ### Linguagens utilizadas
